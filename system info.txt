@@ -1,0 +1,94 @@
+Microsoft Windows [Version 10.0.19045.3803]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\syeda>systeminfo
+
+Host Name:                 DESKTOP-88GF96S
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          syedabdulqahar2004@gmail.com
+Registered Organization:   N/A
+Product ID:                00331-10000-00001-AA384
+Original Install Date:     7/24/2023, 2:28:48 AM
+System Boot Time:          1/10/2024, 7:46:10 PM
+System Manufacturer:       Acer
+System Model:              Aspire M5-583P
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 69 Stepping 1 GenuineIntel ~1300 Mhz
+BIOS Version:              Insyde Corp. V2.28, 4/16/2014
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+05:00) Islamabad, Karachi
+Total Physical Memory:     6,028 MB
+Available Physical Memory: 2,088 MB
+Virtual Memory: Max Size:  7,430 MB
+Virtual Memory: Available: 2,347 MB
+Virtual Memory: In Use:    5,083 MB
+Page File Location(s):     E:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-88GF96S
+Hotfix(s):                 37 Hotfix(s) Installed.
+                           [01]: KB5032005
+                           [02]: KB5033918
+                           [03]: KB5028951
+                           [04]: KB4562830
+                           [05]: KB4580325
+                           [06]: KB4586864
+                           [07]: KB4589212
+                           [08]: KB4593175
+                           [09]: KB4598481
+                           [10]: KB5003791
+                           [11]: KB5011048
+                           [12]: KB5012170
+                           [13]: KB5015684
+                           [14]: KB5020683
+                           [15]: KB5034122
+                           [16]: KB5006753
+                           [17]: KB5007273
+                           [18]: KB5011352
+                           [19]: KB5011651
+                           [20]: KB5014032
+                           [21]: KB5014035
+                           [22]: KB5014671
+                           [23]: KB5015895
+                           [24]: KB5016705
+                           [25]: KB5018506
+                           [26]: KB5020372
+                           [27]: KB5022924
+                           [28]: KB5023794
+                           [29]: KB5025315
+                           [30]: KB5026879
+                           [31]: KB5028318
+                           [32]: KB5028380
+                           [33]: KB5029709
+                           [34]: KB5031539
+                           [35]: KB5032392
+                           [36]: KB5032907
+                           [37]: KB5005699
+Network Card(s):           3 NIC(s) Installed.
+                           [01]: Realtek PCIe GbE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Broadcom 802.11ac Network Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.18.1
+                                 IP address(es)
+                                 [01]: 192.168.18.12
+                                 [02]: fe80::24ff:4aeb:57cf:d206
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+
+C:\Users\syeda>
